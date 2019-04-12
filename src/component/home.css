@@ -1,0 +1,12 @@
+
+.paper:hover{
+    color: darkcyan;
+
+}
+#paper:hover{
+        display: block;
+        border: solid #00BCD4 1px ;
+        background-size: 1400px 1500px;
+        border-top-left-radius: 250px;;
+        opacity: 0.8;
+}
